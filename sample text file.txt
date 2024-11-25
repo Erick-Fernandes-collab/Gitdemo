@@ -1,3 +1,7 @@
 docker pull selenium/standalone-chrome
 
 
+docker push selenium/standalone-chrome -----------> from GitDemo user
+
+
+
